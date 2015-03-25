@@ -1,0 +1,4 @@
+services:
+#    joao_im_web.example:
+#        class: JoaoIm\Bundle\WebBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
